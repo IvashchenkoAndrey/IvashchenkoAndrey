@@ -1,16 +1,20 @@
-## Hi there 👋
+## Всем привет! Я Андрей, 
+## разработчик 1С 👋
 
-<!--
-**IvashchenkoAndrey/IvashchenkoAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Увлекаюсь программированием и хочу автоматизировать всю рутину которая встречается на работе. 
 
-Here are some ideas to get you started:
+## Мой стэк технологий ⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Языки: 1С
+Контроль версий: Got, GitHab
+Инструменты: Мобильная платформа 8.3.27.32, Мобильная платформа 8.5.1.151, Postman, Android Studio, Сборщик мобильных приложений 8.5.1.9, Клиент 1С 8.5.
+Библиотеки: БСП 3.1.11.189.
+Типовые конфигурации: Бухгалтерия предприятия 3.0 (3.0.173.37) 
+
+## Контакты 💬
+
+Почта: reyivash@gmail.com
+Статус занятости: открыт для новых предложений. 
+Сертификаты: 
+1С:Профессионал. Платформа 1С:Предприятие 8.3
+1С:Специалист - срок сдачи экзамена 30.09.2026
